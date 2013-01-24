@@ -1,0 +1,5 @@
+== Welcome
+
+联盟 - 统计
+
+http://www.codinglabs.org/html/how-web-analytics-data-collection-system-work.html
